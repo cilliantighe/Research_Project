@@ -1,0 +1,1001 @@
+region,gender,age,year
+Border,Male,23,2004
+Border,Male,27,2004
+Border,Female,58,1987
+Border,Female,18,2008
+Border,Female,45,2004
+Border,Female,25,1990
+Border,Female,57,1995
+Border,Male,35,1995
+Border,Female,37,1994
+Border,Male,17,2005
+Border,Male,15,2003
+Border,Female,54,1996
+Border,Female,45,2012
+Border,Male,45,2008
+Border,Male,27,1991
+Border,Male,24,1984
+Border,Female,36,2005
+Border,Female,40,1989
+Border,Male,43,1996
+Border,Male,28,1986
+Border,Female,34,1996
+Border,Male,36,1996
+Border,Male,52,1994
+Border,Female,52,1988
+Border,Male,56,2008
+Border,Female,47,1993
+Border,Female,34,1999
+Border,Female,56,1993
+Border,Male,53,2008
+Border,Male,25,1994
+Border,Male,31,2007
+Border,Female,52,1992
+Border,Female,52,1994
+Border,Male,38,2006
+Border,Male,55,2012
+Border,Female,36,1991
+Border,Male,53,2005
+Border,Female,49,1997
+Border,Male,35,2007
+Border,Female,39,2010
+Border,Male,60,1990
+Border,Male,36,2001
+Border,Male,43,1992
+Border,Female,53,2011
+Border,Male,48,2006
+Border,Female,26,2006
+Border,Female,28,2002
+Border,Male,23,2005
+Border,Female,38,2011
+Border,Male,37,2005
+Border,Male,42,2004
+Border,Female,43,2005
+Border,Female,51,2007
+Border,Male,51,1989
+Border,Female,22,2007
+Border,Male,38,1996
+Border,Male,44,1995
+Border,Female,55,1993
+Border,Male,18,2008
+Border,Female,26,2005
+Border,Male,47,2005
+Border,Male,43,1972
+Border,Female,20,2004
+Border,Female,37,2007
+Border,Female,24,2001
+Border,Female,25,1999
+Border,Female,33,2011
+Border,Male,26,2010
+Border,Female,56,2010
+Border,Female,25,1993
+Border,Male,49,2012
+Border,Female,60,2011
+Border,Male,49,2002
+Border,Male,15,1984
+Border,Female,31,2009
+Border,Male,43,2009
+Border,Male,15,2011
+Border,Male,45,1999
+Border,Female,45,2010
+Border,Female,55,2009
+Border,Female,46,2000
+Border,Male,56,2005
+Border,Male,42,1994
+Border,Female,34,2002
+Border,Male,29,2007
+Border,Female,59,1999
+Border,Female,51,2012
+Border,Male,45,1992
+Dublin,Male,37,2007
+Dublin,Male,39,2009
+Dublin,Female,49,1973
+Dublin,Female,23,2010
+Dublin,Female,28,2012
+Dublin,Male,44,1985
+Dublin,Female,45,1997
+Dublin,Male,48,2000
+Dublin,Female,32,2008
+Dublin,Male,22,2002
+Dublin,Female,40,2006
+Dublin,Male,41,1998
+Dublin,Female,28,1996
+Dublin,Male,30,2009
+Dublin,Female,59,2011
+Dublin,Female,60,2001
+Dublin,Male,55,1987
+Dublin,Female,50,2000
+Dublin,Female,32,2002
+Dublin,Male,58,2010
+Dublin,Female,48,2002
+Dublin,Male,30,1993
+Dublin,Female,16,2011
+Dublin,Male,43,2009
+Dublin,Male,53,2004
+Dublin,Female,53,2002
+Dublin,Female,30,2005
+Dublin,Female,35,2006
+Dublin,Female,28,2008
+Dublin,Male,47,1992
+Dublin,Male,59,2003
+Dublin,Male,44,1999
+Dublin,Male,47,1999
+Dublin,Female,48,1994
+Dublin,Female,39,2009
+Dublin,Female,26,2002
+Dublin,Female,54,1985
+Dublin,Female,22,1968
+Dublin,Male,58,2011
+Dublin,Female,19,1999
+Dublin,Female,20,1992
+Dublin,Female,33,2001
+Dublin,Female,22,2003
+Dublin,Female,35,1998
+Dublin,Male,45,2000
+Dublin,Male,41,2008
+Dublin,Male,52,2009
+Dublin,Male,25,1979
+Dublin,Female,29,2011
+Dublin,Female,35,1992
+Dublin,Male,28,1995
+Dublin,Female,33,1988
+Dublin,Male,41,2007
+Dublin,Male,51,2008
+Dublin,Male,50,1994
+Dublin,Female,56,2011
+Dublin,Male,22,2005
+Dublin,Male,54,2012
+Dublin,Female,39,1992
+Dublin,Female,51,2007
+Dublin,Female,36,2013
+Dublin,Male,25,1999
+Dublin,Female,36,1986
+Dublin,Male,45,1993
+Dublin,Female,24,2000
+Dublin,Female,42,2000
+Dublin,Female,45,2010
+Dublin,Male,41,2002
+Dublin,Female,17,1989
+Dublin,Male,60,2002
+Dublin,Female,45,1996
+Dublin,Female,41,1985
+Dublin,Female,38,2007
+Dublin,Male,21,1991
+Dublin,Female,49,2008
+Dublin,Male,44,1999
+Dublin,Female,25,1985
+Dublin,Male,21,2001
+Dublin,Male,17,2004
+Dublin,Male,42,1998
+Dublin,Female,49,1997
+Dublin,Male,57,1991
+Dublin,Male,20,2009
+Dublin,Male,21,1987
+Dublin,Male,57,2008
+Dublin,Female,37,1992
+Dublin,Male,39,2002
+Dublin,Female,21,1979
+Dublin,Female,55,1994
+Dublin,Male,17,1984
+Dublin,Female,18,1986
+Dublin,Female,20,2004
+Dublin,Male,25,2012
+Dublin,Female,20,1998
+Dublin,Male,42,2009
+Dublin,Female,26,2011
+Dublin,Male,51,2004
+Dublin,Male,39,2003
+Dublin,Male,47,1985
+Dublin,Male,28,2009
+Dublin,Male,25,1992
+Dublin,Male,33,1991
+Dublin,Male,56,1999
+Dublin,Male,51,1992
+Dublin,Male,44,2003
+Dublin,Female,40,2001
+Dublin,Female,36,2007
+Dublin,Male,54,1999
+Dublin,Female,48,2012
+Dublin,Male,52,1992
+Dublin,Male,19,2002
+Dublin,Male,33,2002
+Dublin,Female,40,2008
+Dublin,Male,59,1987
+Dublin,Male,38,1989
+Dublin,Female,30,2001
+Dublin,Female,49,2011
+Dublin,Female,48,1999
+Dublin,Female,60,2003
+Dublin,Male,39,2010
+Dublin,Male,18,1996
+Dublin,Male,23,2005
+Dublin,Male,56,1994
+Dublin,Female,41,2003
+Dublin,Male,34,2012
+Dublin,Male,34,1995
+Dublin,Female,22,1991
+Dublin,Female,57,1992
+Dublin,Female,58,2001
+Dublin,Female,51,2012
+Dublin,Male,18,1994
+Dublin,Female,26,2012
+Dublin,Female,53,2009
+Dublin,Female,44,1987
+Dublin,Male,58,2008
+Dublin,Male,51,1998
+Dublin,Male,42,2012
+Dublin,Female,60,2005
+Dublin,Male,50,2013
+Dublin,Female,39,1996
+Dublin,Female,38,2010
+Dublin,Male,44,1995
+Dublin,Female,41,1996
+Dublin,Female,28,1985
+Dublin,Female,36,1995
+Dublin,Female,20,1997
+Dublin,Male,26,1985
+Dublin,Female,32,2001
+Dublin,Female,43,1999
+South West,Male,30,2009
+South West,Male,26,1992
+South West,Female,15,2005
+South West,Male,20,1998
+South West,Female,60,1999
+South West,Female,51,1991
+South West,Female,23,1999
+South West,Male,51,2012
+South West,Female,21,2004
+South West,Male,58,1987
+South West,Female,40,1986
+South West,Female,29,1994
+South West,Male,15,2003
+South West,Female,17,2005
+South West,Female,58,1988
+South West,Female,57,2000
+South West,Female,55,2006
+South West,Male,43,2010
+South West,Male,55,2008
+South West,Male,31,1987
+South West,Female,27,1992
+South West,Male,23,1993
+South West,Female,54,2010
+South West,Male,49,1996
+South West,Male,38,2002
+South West,Male,60,2002
+South West,Male,20,1991
+South West,Male,56,1994
+South West,Female,23,2002
+South West,Female,59,2008
+South West,Male,26,2008
+South West,Male,45,2006
+South West,Female,54,1996
+South West,Male,55,1992
+South West,Female,19,2006
+South West,Female,32,2012
+South West,Male,51,1990
+South West,Male,30,1999
+South West,Male,40,2008
+South West,Male,35,2000
+South West,Female,58,1997
+South West,Female,16,1984
+South West,Female,47,2005
+South West,Female,52,2002
+South West,Male,30,2003
+Mid West,Female,38,2010
+Mid West,Male,18,2002
+Mid West,Female,23,1997
+Mid West,Male,23,1994
+Mid West,Male,29,1979
+Mid West,Female,18,1993
+Mid West,Male,47,2010
+Mid West,Female,41,2004
+Mid West,Female,52,2003
+Mid West,Male,37,1999
+Mid West,Male,34,2000
+Mid West,Male,22,2003
+Mid West,Male,53,1990
+Mid West,Female,51,1996
+Mid West,Male,56,2010
+Mid West,Female,23,2009
+Mid West,Female,51,2001
+Mid West,Female,31,2001
+Mid West,Male,24,1998
+Mid West,Female,26,2006
+Mid West,Male,15,1993
+Mid West,Female,15,2011
+Mid West,Male,51,1986
+Mid West,Male,59,2007
+Mid West,Male,49,2009
+Mid West,Male,40,2010
+Mid West,Female,44,2003
+Mid West,Male,53,2002
+Mid West,Female,28,1992
+Mid West,Female,33,2011
+Mid West,Male,60,2000
+Mid West,Male,35,1995
+Mid West,Female,26,2007
+Mid West,Female,46,2005
+Mid West,Male,26,2007
+Mid West,Female,36,2002
+Mid West,Female,57,1986
+Mid West,Female,57,1994
+Mid West,Female,36,2011
+Mid West,Male,20,1997
+Mid West,Female,28,2012
+Mid West,Female,50,1999
+Mid West,Male,40,2003
+Mid West,Male,22,2009
+Mid West,Female,24,1995
+Mid West,Male,38,2011
+Mid West,Male,20,2005
+Mid West,Female,56,2006
+Mid West,Male,27,1993
+Mid West,Male,35,2009
+Mid West,Female,37,1987
+Mid West,Male,43,2001
+Mid West,Female,33,1992
+Mid West,Female,20,2009
+Mid West,Female,16,2012
+Mid West,Female,41,2006
+Mid West,Female,30,2011
+Mid West,Male,41,2007
+Mid West,Male,31,1991
+Mid West,Female,50,1998
+Mid West,Female,17,1993
+Mid West,Female,19,2007
+Mid West,Female,45,2010
+Mid West,Female,35,1999
+Mid West,Female,58,2011
+Mid West,Male,31,1998
+Mid West,Male,18,2012
+Mid West,Female,32,1993
+Mid West,Male,56,1992
+Mid West,Female,33,2011
+Mid West,Female,16,2003
+Mid West,Female,33,2005
+Mid West,Male,29,1997
+Mid West,Male,28,2006
+Mid West,Female,42,2003
+Mid West,Male,48,1996
+Mid West,Male,51,1998
+Mid West,Female,16,1997
+Mid West,Male,34,1991
+Mid West,Female,60,1993
+Mid West,Female,49,1995
+Mid West,Female,41,1998
+Mid West,Female,42,1988
+Mid West,Female,53,2004
+Mid West,Female,52,2002
+Mid West,Female,42,2003
+Mid West,Female,42,2003
+Mid West,Female,22,2009
+Mid West,Male,16,1997
+Mid West,Female,27,2007
+Mid West,Female,19,1998
+Mid West,Female,34,2011
+Mid West,Female,36,1986
+Mid West,Male,20,2004
+Mid West,Male,15,2009
+Mid West,Female,17,2004
+Mid West,Female,59,2007
+Mid West,Female,39,2010
+Mid West,Male,31,2000
+Mid West,Female,26,1993
+Mid West,Female,17,2004
+Mid West,Female,52,1996
+Mid West,Male,60,1993
+Mid West,Female,38,2002
+Mid West,Male,30,1967
+Mid West,Male,45,1995
+Mid West,Female,29,2002
+Mid West,Female,43,1993
+Mid West,Male,29,1987
+Mid West,Female,24,1993
+Mid West,Male,53,2006
+Mid West,Male,20,2011
+Mid West,Female,55,1997
+Mid West,Female,27,2003
+Mid West,Female,56,1986
+Mid West,Male,44,1986
+Mid West,Female,43,1994
+Mid West,Male,50,2000
+Mid West,Female,36,1997
+Mid West,Female,39,2007
+Mid West,Female,32,2001
+Mid West,Female,30,2011
+Mid West,Male,51,2012
+Mid West,Male,17,1985
+Mid West,Male,52,1960
+Mid West,Female,54,2002
+Mid West,Female,32,2007
+Mid West,Female,34,2008
+Mid West,Male,24,1995
+Mid West,Male,55,2011
+Mid West,Female,33,2007
+Mid West,Male,50,1997
+Mid West,Male,32,1998
+Mid West,Male,45,1995
+Mid West,Male,55,1991
+Mid West,Female,56,2007
+Mid West,Male,39,1985
+Mid West,Female,49,2006
+Mid West,Female,24,2000
+Mid West,Male,50,1994
+Mid West,Male,22,1993
+Mid West,Female,44,1993
+Mid West,Male,47,1993
+Mid West,Female,43,1995
+Mid West,Male,46,1985
+Mid West,Male,56,2011
+Mid West,Female,37,2011
+Mid West,Male,22,2005
+Mid West,Male,34,2007
+Mid West,Female,37,1998
+Mid West,Male,58,1999
+Mid West,Female,55,2001
+Mid West,Male,46,1988
+Mid West,Female,34,2009
+Mid West,Male,54,2011
+Mid West,Male,60,1987
+Mid West,Female,53,1998
+Mid West,Male,41,1992
+Mid West,Female,31,2011
+Mid West,Male,58,1994
+Mid West,Male,37,1993
+Mid West,Male,21,1993
+Mid West,Female,50,2010
+Mid West,Female,28,1989
+Mid West,Female,37,1994
+Mid West,Female,23,1998
+Mid West,Female,19,2007
+Mid West,Female,52,2007
+Mid West,Male,56,2002
+Mid West,Male,25,1992
+Mid West,Female,40,1999
+Mid West,Male,60,2006
+Mid West,Female,19,2003
+Mid West,Female,21,1990
+Mid West,Female,20,1995
+Mid West,Female,40,2000
+Mid West,Male,40,1992
+Mid West,Female,46,1994
+Mid West,Female,32,2006
+Mid West,Male,57,2012
+Mid West,Female,48,2010
+Mid West,Female,34,1993
+Mid West,Female,38,1996
+Mid West,Male,31,2008
+Mid West,Male,60,1992
+Mid West,Male,21,2002
+Mid West,Female,53,1997
+Mid West,Male,36,2000
+Mid West,Female,56,2001
+Mid West,Male,44,1996
+Mid West,Male,55,2006
+Mid West,Male,18,2004
+South East,Female,59,2012
+South East,Female,28,1987
+South East,Male,45,1988
+South East,Male,26,1992
+South East,Female,50,2008
+South East,Male,39,1998
+South East,Male,55,2008
+South East,Male,50,2012
+South East,Male,37,1994
+South East,Male,27,1974
+South East,Male,55,2002
+South East,Female,54,1996
+South East,Male,25,2003
+South East,Female,38,2010
+South East,Male,40,1992
+South East,Female,28,1993
+South East,Female,55,2012
+South East,Male,44,2008
+South East,Female,52,2005
+South East,Female,30,1995
+South East,Male,30,1997
+South East,Male,19,1997
+South East,Female,60,2011
+South East,Female,18,2007
+South East,Female,59,1998
+South East,Female,25,2000
+South East,Female,34,1997
+South East,Male,37,1993
+South East,Female,17,2010
+South East,Female,37,1954
+South East,Male,20,1989
+South East,Female,35,1990
+South East,Male,45,1990
+South East,Male,41,2007
+South East,Female,47,2008
+South East,Female,47,1988
+South East,Male,57,1991
+South East,Male,48,2003
+South East,Female,43,2011
+South East,Female,29,2010
+South East,Female,25,2009
+South East,Female,39,2007
+South East,Female,51,1997
+South East,Male,41,1985
+South East,Female,31,2007
+South East,Female,24,2011
+South East,Female,40,2011
+South East,Male,54,2007
+South East,Female,47,2012
+South East,Male,38,2009
+South East,Female,23,1996
+South East,Male,37,2006
+South East,Male,16,2000
+South East,Female,26,2006
+South East,Male,35,2001
+South East,Male,57,2002
+South East,Male,42,1994
+South East,Female,49,2002
+South East,Male,31,2011
+South East,Male,38,2002
+South East,Female,41,2000
+South East,Male,30,2006
+South East,Male,45,1997
+South East,Male,17,2010
+South East,Male,40,1990
+South East,Female,25,2011
+South East,Female,58,2012
+South East,Male,45,1998
+South East,Female,47,1994
+South East,Male,33,2006
+South East,Male,57,1999
+South East,Male,34,2009
+South East,Male,32,1966
+South East,Male,53,1992
+South East,Female,48,2012
+South East,Female,18,2009
+South East,Female,50,1996
+South East,Male,55,1991
+South East,Female,43,2005
+South East,Female,50,1995
+South East,Female,29,2012
+South East,Male,27,2006
+South East,Female,21,2008
+South East,Male,42,2011
+South East,Male,35,2009
+South East,Male,44,2003
+South East,Male,35,1992
+South East,Female,40,1999
+South East,Male,42,2003
+South East,Male,17,2006
+South East,Female,52,2004
+South East,Male,18,1991
+South East,Female,24,2004
+South East,Male,23,1993
+South East,Female,47,2005
+South East,Male,17,2010
+South East,Female,39,1998
+South East,Male,19,1988
+South East,Male,49,1999
+South East,Female,57,1985
+South East,Female,15,2012
+South East,Female,31,2003
+South East,Male,37,1991
+South East,Male,29,2011
+South East,Female,43,2007
+South East,Female,49,1993
+South East,Female,40,2010
+South East,Female,37,1999
+South East,Female,25,2004
+South East,Female,47,1998
+South East,Male,48,2002
+South East,Female,59,1994
+South East,Female,18,1997
+South East,Female,56,1992
+South East,Female,36,1985
+South East,Male,48,1996
+South East,Female,15,1994
+South East,Female,23,2012
+South East,Male,59,2001
+South East,Male,47,1995
+South East,Female,59,2008
+South East,Female,22,1984
+South East,Female,45,2002
+South East,Male,57,1976
+South East,Male,35,2005
+South East,Male,39,2012
+South East,Female,23,2004
+South East,Female,44,1993
+South East,Male,46,1992
+South East,Female,34,1995
+South East,Male,37,2012
+South East,Male,59,1994
+South East,Female,32,1999
+South East,Male,47,1997
+South East,Female,25,2008
+South East,Female,27,2011
+South East,Male,39,1998
+South East,Male,60,2010
+South East,Male,50,1996
+South East,Male,19,2003
+South East,Male,59,1990
+South East,Male,30,2009
+South East,Male,54,2012
+South East,Female,48,1991
+South East,Male,56,2005
+Mid East,Female,50,2002
+Mid East,Male,27,2011
+Mid East,Male,27,2010
+Mid East,Male,15,1996
+Mid East,Female,50,2010
+Mid East,Male,15,1999
+Mid East,Female,45,1994
+Mid East,Male,29,2012
+Mid East,Male,32,1993
+Mid East,Female,35,2009
+Mid East,Male,32,2006
+Mid East,Female,37,2012
+Mid East,Female,36,2001
+Mid East,Female,35,1992
+Mid East,Male,29,2001
+Mid East,Male,28,2003
+Mid East,Female,60,1996
+Mid East,Male,25,1996
+Mid East,Male,43,1994
+Mid East,Female,15,2007
+Mid East,Female,15,2006
+Mid East,Female,54,1998
+Mid East,Male,48,2008
+Mid East,Male,51,1991
+Mid East,Female,29,2012
+Mid East,Female,55,2011
+Mid East,Female,16,1998
+Mid East,Male,27,2008
+Mid East,Male,48,2001
+Mid East,Male,59,2011
+Mid East,Male,36,1992
+Mid East,Male,54,1995
+Mid East,Male,17,2001
+Mid East,Male,46,2000
+Mid East,Male,57,1998
+Mid East,Male,34,2010
+Mid East,Male,59,2003
+Mid East,Male,45,2001
+Mid East,Male,39,2002
+Mid East,Male,43,2002
+Mid East,Male,55,2000
+Mid East,Female,31,1993
+Mid East,Female,25,1993
+Mid East,Female,59,1954
+Mid East,Female,46,2002
+Mid East,Female,37,1991
+Mid East,Female,23,1999
+Mid East,Male,40,2009
+Mid East,Female,58,1988
+Mid East,Female,43,2008
+Mid East,Female,44,1999
+Mid East,Male,26,1991
+Mid East,Female,35,2013
+Mid East,Female,54,2007
+Mid East,Female,15,2003
+Mid East,Female,50,2012
+Mid East,Male,45,1995
+Mid East,Male,23,1967
+Mid East,Male,19,1993
+Mid East,Male,30,1993
+Mid East,Male,27,1989
+Mid East,Male,52,2004
+Mid East,Female,32,2002
+Mid East,Male,29,2008
+Mid East,Male,38,2008
+Mid East,Female,16,1980
+Mid East,Male,47,1984
+Mid East,Female,55,2011
+Mid East,Female,36,2005
+Mid East,Male,56,2003
+Mid East,Male,16,2002
+Mid East,Male,19,1997
+Mid East,Male,22,1989
+Mid East,Female,52,2002
+Mid East,Male,58,1995
+Mid East,Male,40,2005
+Mid East,Male,52,2002
+Mid East,Female,36,2001
+Mid East,Male,53,2006
+Mid East,Male,22,2005
+Mid East,Female,29,2013
+Mid East,Male,17,1993
+Mid East,Male,15,1999
+Mid East,Female,29,2008
+Mid East,Male,59,2003
+Mid East,Male,33,2000
+Mid East,Female,57,1991
+Mid East,Male,26,2008
+Mid East,Male,20,2010
+Mid East,Male,41,2011
+Mid East,Male,21,2003
+Mid East,Male,47,2005
+Mid East,Female,49,1999
+Mid East,Female,54,1999
+Mid East,Female,40,1995
+Mid East,Female,36,1989
+Mid East,Male,48,1992
+Mid East,Female,22,2006
+Mid East,Male,49,2001
+Mid East,Male,17,1995
+Mid East,Male,49,2002
+Mid East,Female,31,1998
+Mid East,Male,28,1989
+Mid East,Male,60,2012
+Mid East,Male,18,1998
+Mid East,Female,26,2001
+Mid East,Male,31,2002
+Mid East,Male,15,2012
+Mid East,Male,29,1999
+Mid East,Male,22,1996
+Mid East,Female,49,2002
+Mid East,Male,44,2005
+Mid East,Male,49,1992
+Mid East,Female,50,1990
+Mid East,Male,49,1995
+Mid East,Male,38,1985
+Mid East,Female,60,2009
+Mid East,Male,48,1995
+Mid East,Female,44,2012
+Mid East,Female,22,1994
+Mid East,Female,24,1985
+Mid East,Female,51,1996
+Mid East,Male,15,1997
+Mid East,Male,25,2008
+Mid East,Female,30,2009
+Mid East,Male,37,2012
+Mid East,Female,27,2000
+Mid East,Female,17,1986
+Mid East,Male,57,1989
+Mid East,Female,55,1988
+Mid East,Female,21,2002
+Mid East,Male,23,2001
+Mid East,Male,31,2008
+Mid East,Male,53,2007
+Mid East,Female,37,1985
+Mid East,Male,57,2004
+Mid East,Female,54,2011
+Mid East,Male,28,2010
+Mid East,Male,25,1993
+Mid East,Male,17,1999
+Mid East,Male,55,2009
+Mid East,Male,51,1993
+Mid East,Female,19,2003
+Mid East,Female,24,2011
+Mid East,Male,17,1987
+Mid East,Male,39,2008
+Mid East,Male,56,1999
+Mid East,Male,50,1990
+Mid East,Female,59,1976
+Mid East,Male,40,1995
+Mid East,Male,34,2001
+Mid East,Female,18,2006
+Mid East,Male,23,2000
+Mid East,Female,23,1997
+Mid East,Male,58,1992
+Mid East,Female,40,1996
+Mid East,Male,54,1987
+Mid East,Male,43,1992
+Mid East,Male,52,2000
+Mid East,Female,56,2002
+Mid East,Female,51,2011
+Mid East,Female,58,2006
+Mid East,Male,20,1997
+Mid East,Male,28,2004
+Mid East,Female,19,2010
+Mid East,Male,28,1999
+Mid East,Female,58,1997
+Mid East,Male,53,1998
+Mid East,Male,24,2001
+Mid East,Male,20,1959
+Mid East,Male,32,1999
+Mid East,Female,59,2000
+Mid East,Male,57,2006
+Mid East,Male,49,1992
+Mid East,Male,40,1962
+Mid East,Female,25,2012
+Mid East,Male,31,2000
+Mid East,Female,54,2010
+Mid East,Male,60,2000
+Mid East,Male,27,1994
+Mid East,Male,32,2003
+Mid East,Female,58,2006
+Mid East,Male,41,2010
+Mid East,Female,21,1997
+Mid East,Male,46,1993
+Mid East,Male,27,1990
+Mid East,Male,24,2002
+Mid East,Male,39,1997
+Mid East,Female,54,1993
+Mid East,Female,44,1994
+Mid East,Female,20,1989
+Mid East,Female,33,1994
+West,Male,47,1990
+West,Female,40,2009
+West,Male,49,2008
+West,Male,41,1998
+West,Male,18,2002
+West,Male,49,1993
+West,Male,17,2012
+West,Male,17,2011
+West,Male,28,2003
+West,Male,56,2012
+West,Female,38,2005
+West,Male,15,2009
+West,Female,46,2008
+West,Male,33,2012
+West,Male,49,2008
+West,Male,57,2003
+West,Male,60,1997
+West,Male,48,2007
+West,Female,32,2011
+West,Male,44,2010
+West,Male,21,2008
+West,Female,43,1990
+West,Male,42,1988
+West,Female,53,2002
+West,Male,26,2000
+West,Female,21,2012
+West,Female,42,1970
+West,Male,35,1995
+West,Male,28,1996
+West,Male,30,2004
+West,Female,36,2001
+West,Male,45,1993
+West,Male,55,1990
+West,Male,58,2008
+West,Female,24,2009
+West,Male,38,1995
+West,Female,59,2008
+West,Female,31,2007
+West,Male,25,2006
+West,Female,34,2006
+West,Male,28,1995
+West,Female,42,2001
+West,Female,50,2003
+West,Male,19,1993
+West,Female,58,1998
+West,Male,21,1993
+West,Female,27,2006
+West,Female,22,1966
+West,Female,34,1996
+West,Female,43,2010
+West,Female,20,1985
+West,Male,55,2012
+Border,Female,50,1994
+Midlands,Female,30,1994
+Midlands,Female,37,2011
+Midlands,Male,45,1999
+Midlands,Male,46,2009
+Midlands,Female,36,1997
+Midlands,Male,52,2000
+Midlands,Male,29,2010
+Midlands,Male,22,2001
+Midlands,Female,60,2002
+Midlands,Male,22,2012
+Midlands,Female,32,1990
+Midlands,Female,31,2003
+Midlands,Male,37,1994
+Midlands,Male,20,2006
+Midlands,Female,50,1992
+Midlands,Female,50,2005
+Midlands,Female,30,1995
+Midlands,Female,40,2003
+Midlands,Male,37,2008
+Midlands,Male,19,1996
+Midlands,Male,31,1988
+Midlands,Female,43,2006
+Midlands,Female,22,2010
+Midlands,Female,36,1995
+Midlands,Female,54,2006
+Midlands,Female,28,2011
+Midlands,Male,34,1992
+Midlands,Female,39,2005
+Midlands,Male,40,1986
+Midlands,Female,24,1986
+Midlands,Female,41,2006
+Midlands,Male,56,2009
+Midlands,Female,45,1990
+Midlands,Male,38,2005
+Midlands,Female,20,2004
+Midlands,Male,36,1998
+Midlands,Male,41,2006
+Midlands,Male,28,1997
+Midlands,Male,53,1994
+Dublin,Female,29,2005
+Dublin,Male,36,2001
+Dublin,Male,52,2000
+Dublin,Male,59,2006
+Dublin,Male,23,1989
+Dublin,Male,60,2004
+Dublin,Male,33,1994
+Dublin,Female,27,2008
+Dublin,Female,42,2007
+Dublin,Male,35,1997
+Dublin,Male,34,1996
+Dublin,Female,31,2006
+Dublin,Female,19,1994
+Dublin,Male,51,1969
+Dublin,Male,27,2010
+Dublin,Male,58,1992
+Dublin,Male,19,1998
+Dublin,Female,22,2011
+Dublin,Female,18,2011
+Dublin,Male,50,1994
+Dublin,Female,24,2013
+Dublin,Male,20,1992
+Dublin,Male,60,1992
+Dublin,Female,27,1993
+Dublin,Male,16,1993
+Dublin,Female,45,2001
+Dublin,Female,56,2005
+Dublin,Male,54,1997
+Dublin,Female,28,1987
+Dublin,Female,30,2006
+Dublin,Female,56,1997
+Dublin,Female,28,1996
+Dublin,Female,33,2009
+Dublin,Male,31,2001
+Dublin,Male,19,2006
+Dublin,Female,40,1996
+Dublin,Male,30,2007
+Dublin,Female,45,2010
+Dublin,Male,41,2011
+Dublin,Male,53,2001
+Dublin,Male,49,1994
+Dublin,Male,19,2010
+Dublin,Female,59,1987
+Dublin,Female,29,2009
+Dublin,Female,33,2010
+Dublin,Male,45,2009
+Dublin,Male,26,1996
+Dublin,Male,60,2010
+Dublin,Male,60,1987
+Dublin,Female,15,2004
+Dublin,Female,33,2008
+Dublin,Female,55,2000
+Dublin,Female,47,2005
+Dublin,Female,26,1970
+Dublin,Female,53,2004
+Dublin,Female,41,2001
+Dublin,Female,30,1974
+Dublin,Female,34,2002
+Dublin,Female,49,2011
+Dublin,Male,42,2002
+Dublin,Female,30,1987
+Dublin,Female,38,2001
+Dublin,Male,33,1994
+Dublin,Male,53,2005
+Dublin,Female,41,2003
+Dublin,Female,40,2010
+Dublin,Female,49,2006
+Dublin,Male,27,1963
+Dublin,Male,58,2010
+Dublin,Male,48,1993
+Dublin,Male,27,2004
+Dublin,Female,26,2011
+Dublin,Male,29,1996
+Dublin,Female,47,1994
+Dublin,Male,29,1992
+Dublin,Female,30,2009
+Dublin,Female,50,2005
+Dublin,Male,18,2009
+Dublin,Male,30,2006
+Dublin,Female,32,1998
+Dublin,Male,28,2003
+Dublin,Female,19,1992
+Dublin,Male,28,2005
+Dublin,Female,39,2004
+Dublin,Male,56,2007
+Dublin,Male,43,2004
+Dublin,Male,22,2007
+Dublin,Female,21,1997
+Dublin,Female,46,1992
+Dublin,Male,19,2010
+Dublin,Female,34,1999
+Dublin,Male,47,2005
+Dublin,Male,60,2002
+Dublin,Male,51,1999
+Dublin,Male,49,1993
+Dublin,Male,22,1995
+Dublin,Female,51,2010

@@ -1,0 +1,39 @@
+/*
+# Author: Cillian Tighe
+# CCY4: Research Project
+# Supervisor: Cyril Connolly
+*/
+
+h6{
+  font-size: 14px;
+}
+
+/*
+# Setting map view to take the full height of the device
+*/
+#mapView {
+  height: calc(100vh - 65px) !important;
+  
+}
+
+/*
+# Changing the icon position in the additional links section
+*/
+.icon {
+  position: relative;
+  /* Adjust these values accordingly */
+  top: 6px;
+  left: 6px;
+}
+
+.menuHead{
+  margin: 0;
+}
+
+/*
+# Styling for the error messages
+*/
+.error{
+  font-size: 10px;
+  color: red !important;
+}
