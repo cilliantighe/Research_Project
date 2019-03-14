@@ -20,6 +20,7 @@ library(leaflet)
 library(tidyverse)
 # ggmap is used for geolocating places, towns, cities etc.
 library(ggmap)
+register_google(key = "AIzaSyAx8I9Pa6MpC3H5qp1iqwRmjFSwlh_21r0")
 # plotly is used for creating dynamic and interactive graphics
 library(plotly)
 # dbi and rmariadb are used for handling database requests and connections and hashing data
